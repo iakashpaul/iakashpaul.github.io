@@ -1,4 +1,4 @@
-# gh-page
+# GitHub-page
 
 >Built using Jekyll & paired with Hyde.
 
