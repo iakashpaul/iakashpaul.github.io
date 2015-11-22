@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Akash Paul
-tagline:          'A Jekyll theme'
+tagline:          'Handiworks'
 description:      'My projects journal'
 url:              http://iakashpaul.github.io
 baseurl:          /
