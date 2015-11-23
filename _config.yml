@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Akash Paul
 tagline:          'CZZ'
 description:      'My projects journal'
-url:              http://iakashpaul.github.io
+url:              https://iakashpaul.github.io
 baseurl:          /
 
 author:
