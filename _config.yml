@@ -17,7 +17,7 @@ author:
   name:           'Akash Paul'
   url:            https://twitter.com/iakashpaul
 
-paginate:         5
+paginate:         10
 excerpt_separator: <!--more-->
 
 # Custom vars
