@@ -15,7 +15,7 @@ baseurl:          /
 
 author:
   name:           'Akash Paul'
-  url:            https://twitter.com/iAkashPaul
+  url:            https://twitter.com/iakashpaul
 
 paginate:         5
 excerpt_separator: <!--more-->
