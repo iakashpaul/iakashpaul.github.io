@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Akash Paul
 tagline:          'CZZ BTDUBZ'
-description:      'A Jekyll journal'
+description:      'Jekyll journal for all works'
 url:              https://iakashpaul.github.io
 baseurl:          /
 
