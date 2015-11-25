@@ -7,4 +7,4 @@ who have built/worked upon the entire Guidance, Navigation & Control stack of UA
 
 <!--more-->
 
-Since I was only going to build an ESP8266 remote for 'deep', I thought I might as well build a fairly less complicated GCS like qGroundControl to use on my laptop. For the most part it would be acting like a Postmaster for handling pick-ups & drop-offs around the college cricket ground. Also need to incorporate the practice of allocating different altitudes for incoming & outgoing sorties of different UAVs(not simultaneously at the moment) for all hubs.
+Since I was only going to build an ESP8266 remote for 'Malare' in Project deep, I thought I might as well build a fairly less complicated GCS like qGroundControl to use on my laptop. For the most part it would be acting like a Postmaster for handling pick-ups & drop-offs around the college cricket ground. Also need to incorporate the practice of allocating different altitudes for incoming & outgoing sorties of different UAVs(not simultaneously at the moment) for all hubs.
