@@ -1,0 +1,10 @@
+---
+layout: post
+title: Restarting opencv on Android
+---
+
+I've been selected to work on a project involving opencv running on android for data logging(hopefully gets me the Air :D), 
+so naturally I was irked about having to use eclipse for the same again. Thankfully Android Studio 2 Developer preview hit the 
+canary channel & I got it for both Wdoze & linux. The build speed is indeed high compared to the previous bundles. Thanks to the 
+new gpu-profiler built into AS 2.0 along with Instant run, it's going to be very relaxing & interesting to work with. 
+Currently reading up Joesph Howse's book on opencv 3 now.
