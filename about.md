@@ -15,6 +15,6 @@ I also love working on VR (working on using cardboardVR with LEAP MOTION control
 
 Current tinkerware- LEAP MOTION controller,STM32F boards & ESP8266 modules.
 
->[Do you Twitter?](https://twitter.com/iakashpaul).
+>[Do you Twitter?](https://twitter.com/iakashpaul)
 
 cheers!
