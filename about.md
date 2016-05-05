@@ -17,8 +17,6 @@ Current tinkerware- LEAP MOTION controller, ESP8266 modules.
 
 ><a href="http://stackoverflow.com/users/2335131/iakashpaul">
 <img src="http://stackoverflow.com/users/flair/2335131.png" width="208" height="58" alt="profile for iAkashPaul at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for iAkashPaul at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
-
->Have questions? [Ask me on Twitter](https://twitter.com/iakashpaul).
+</a> [Do you Twitter?](https://twitter.com/iakashpaul).
 
 Thanks for reading!
