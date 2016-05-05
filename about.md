@@ -7,16 +7,14 @@ title: About
   BUILD. IMPACT. REPEAT.
 </p>
 
-Hey there! I am Akash Paul from Rajkot,GJ.
+Hey there! I am Akash Paul.
 
-I am currently working on UAVs, Tele-presence solutions & Automation robotics. I've also got a keen interest in building assistants, electric vehicles, humanoids with AGI & creating niche products. 
+I work on UAVs, tele-presence solutions & industrial robotics. I've also got a keen interest in building digital assistants, electric vehicles, humanoids with AGI & some more stuff. 
 
 I also love working on VR (working on using cardboardVR with LEAP MOTION controller), Node.js, WebRTC, opencv & Android.
 
-Current tinkerware- LEAP MOTION controller, ESP8266 modules.
+Current tinkerware- LEAP MOTION controller,STM32F boards & ESP8266 modules.
 
-><a href="http://stackoverflow.com/users/2335131/iakashpaul">
-<img src="http://stackoverflow.com/users/flair/2335131.png" width="208" height="58" alt="profile for iAkashPaul at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for iAkashPaul at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a> [Do you Twitter?](https://twitter.com/iakashpaul).
+>[Do you Twitter?](https://twitter.com/iakashpaul).
 
-Thanks for reading!
+cheers!
