@@ -2,12 +2,8 @@
 layout: page
 title: About
 ---
-
-<p class="message">
-  BUILD. IMPACT. REPEAT.
-</p>
-
 Hey there! I am Akash Paul.
+
 {SW:IDEAPLEXUS, HW:BHAMA ROBOTICS, MISC:3DKin}
 
 I work on UAVs, tele-presence solutions & industrial robotics. I've also got a keen interest in building digital assistants, electric vehicles, humanoids with AGI & some other stuff.
