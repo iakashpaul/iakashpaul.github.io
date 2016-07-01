@@ -13,4 +13,4 @@ Updates
 
 Tip for those reading
 ------
-* Print PLA on the acrylic build-plate after applying a coat of water soluble glue (Fevicol & the like) & remove them ---easily with a nice finish by freezing the build plate--- nope the print itself contracted & layers got dis-joint. Try to avoid completely flat surfaces by either inserting clever spaces or re-orienting the STL before creating X3Gs. 
+* Print PLA on the acrylic build-plate after applying a coat of water soluble glue (Fevicol & the like) & remove them ~~easily with a nice finish by freezing the build plate~~ nope the print itself contracted & layers got dis-joint. Try to avoid completely flat surfaces by either inserting clever spaces or re-orienting the STL before creating X3Gs. 
