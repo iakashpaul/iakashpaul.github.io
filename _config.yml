@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Akash Paul
 tagline:          'CZZ'
-description:      'My Jekyll logbook'
+description:      '_Your focus determines your reality_ – Qui-Gon Jinn'
 url:              https://iakashpaul.github.io
 baseurl:          /
 
@@ -17,7 +17,7 @@ author:
   name:           'Akash Paul'
   url:            https://twitter.com/iakashpaul
 
-paginate:         10
+paginate:         20
 excerpt_separator: <!--more-->
 
 # Custom vars
