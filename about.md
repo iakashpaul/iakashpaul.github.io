@@ -4,7 +4,7 @@ title: About
 ---
 Hey there! I am Akash Paul. I'm a freelance software developer, who also prototypes a lot of hardware.
 
-I've worked on UAVs, tele-presence solutions & industrial robots. I'm _working_ on creating digital assistants, EVs & droids with AGI. Focussed on inside out VR (cardboardVR with LEAP MOTION or another handheld console for navigating).
+I've worked on UAVs, tele-presence solutions & industrial robots. I'm _working_ on creating digital assistants, EVs & droids with AGI. Focussed on inside-out VR (cardboardVR with LEAP MOTION or another handheld console for navigating).
 
 I care & _plan_ on eventually making RISC-V ICs(larger nm though), PV-cells, Li-Ion batteries(metal-foils) & LED panels in India.
 
