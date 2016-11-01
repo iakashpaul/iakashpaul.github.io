@@ -14,7 +14,7 @@ cheers!
 
 Akash
 
-- Do you [_Twitter_](https://twitter.com/iakashpaul) or [YouTube]()?
+- Do you [_Twitter_](https://twitter.com/iakashpaul) or [__YouTube__]()?
 
 - Designs on [Thingiverse]() & [Instructables](http://www.instructables.com/member/iAkashPaul/?publicView=true)
 
