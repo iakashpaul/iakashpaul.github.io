@@ -12,11 +12,9 @@ cheers!
 
 Akash
 
-- [_Do you Twitter?_](https://twitter.com/iakashpaul)
+- Do you [_Twitter?_](https://twitter.com/iakashpaul) or [YouTube]()?
 
 - Designs on [Thingiverse]() & [Instructables](http://www.instructables.com/member/iAkashPaul/?publicView=true)
-
-- Videos on [YouTube]()
 
 - Check out my apps on the [AppStore]() & [PlayStore]()
 
