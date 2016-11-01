@@ -248,3 +248,11 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+/* Materialize */
+.theme-base-ac .sidebar {
+  background-color: #00acc1;
+}
+.theme-base-ac .content a,
+.theme-base-ac .related-posts li a:hover {
+  color: #00acc1;
+}
