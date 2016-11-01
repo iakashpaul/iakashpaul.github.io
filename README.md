@@ -1,4 +1,4 @@
-# GitHub-page
+# Personal page at [Akashpaul.com](www.akashpaul.com)
 
 >Built using Jekyll & paired with Hyde.
 
@@ -11,4 +11,4 @@
 
 >Open sourced under the [MIT license](LICENSE.md).
 
-LLAP
+LLAP 🖖🏼
