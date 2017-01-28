@@ -1,4 +1,4 @@
-# Personal page at [Akashpaul.com](http://www.akashpaul.com)
+# Personal page at [akashpaul.com](http://www.akashpaul.com)
 
 >Built using Jekyll & paired with Hyde.
 
