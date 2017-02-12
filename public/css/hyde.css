@@ -259,9 +259,9 @@ a.sidebar-nav-item:focus {
 }
 /* Materialize */
 .theme-base-ac .sidebar {
-  background-color: #89b3d8;
+  background-color: #00acc1;
 }
 .theme-base-ac .content a,
 .theme-base-ac .related-posts li a:hover {
-  color: #89b3d8;
+  color: #00acc1;
 }
