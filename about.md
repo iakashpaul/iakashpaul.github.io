@@ -20,6 +20,8 @@ Akash
 
 - Check out my apps on the [AppStore]() & [PlayStore]()
 
+- Got a project for me? Then hit me up on [UpWork](https://www.upwork.com/freelancers/~01b935a8dd4763cbd9)
+
 - Products I've made-
 
     * [CrowdSupply]()
