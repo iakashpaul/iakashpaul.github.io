@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About/Links
 ---
 Hey there! I'm a freelance software developer who also prototypes a lot of electronic projects.
 
@@ -13,6 +13,8 @@ Inter-planetary travel, dragon-esque planes & cliff-diving are things that occup
 Cheers!
 
 Akash
+
+---
 
 - Tweet up @[__Twitter__](https://twitter.com/iakashpaul) or Watch my videos on ▶️[__YouTube__]()
 
