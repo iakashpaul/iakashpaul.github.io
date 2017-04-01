@@ -2,27 +2,27 @@
 layout: page
 title: About
 ---
-Hey there! I am Akash Paul. I'm a freelance software developer, who also prototypes a lot of hardware.
+Hey there! I'm a freelance software developer who also prototypes a lot of electronic projects.
 
-I've worked on UAVs, tele-presence solutions & industrial robots. I'm _working_ on creating digital assistants, EVs & droids with AGI. Focussed on inside-out VR (cardboardVR with LEAP MOTION or another handheld console for navigating).
+I've built UAVs with cellular control & video-streaming using WebRTC, tele-presence solutions & industrial robots. I'm also working on creating EVs, digital assistants & droids with AGI. Also focussed on inside-out VR (cardboardVR with Pi+LEAP MOTION).
 
-I care & _plan_ on eventually making RISC-V ICs(larger nm though), PV-cells, Li-Ion batteries(metal-foils) & LED panels in India.
+I care & plan on eventually making RISC-V ICs(larger nm though), PV-cells, Li-Ion batteries(metal-foils) & LED panels in India.
 
-Inter-planetary travel, dragon-esque flying planes & cliff-diving are things that occupy my mind whenever I go for a run.
+Inter-planetary travel, dragon-esque planes & cliff-diving are things that occupy my mind whenever I go for a run.
 
-cheers!
+Cheers!
 
 Akash
 
-- Do you [_Twitter_](https://twitter.com/iakashpaul) or [__YouTube__]()?
+- Tweet up [__Twitter__](https://twitter.com/iakashpaul) or Watch my videos on [__YouTube__]()?
 
-- Designs on [Thingiverse]() & [Instructables](http://www.instructables.com/member/iAkashPaul/?publicView=true)
+- Find cool designs on [Thingiverse]() & tutorials at [Instructables](http://www.instructables.com/member/iAkashPaul/?publicView=true)
 
 - Check out my apps on the [AppStore]() & [PlayStore]()
 
-- Got a project for me? Then hit me up on [UpWork](https://www.upwork.com/freelancers/~01b935a8dd4763cbd9)
+- Got a project for me? Hit me up on [UpWork](https://www.upwork.com/freelancers/~01b935a8dd4763cbd9)
 
-- Products I've made-
+- Products I've sell-
 
     * [CrowdSupply]()
     
