@@ -18,6 +18,7 @@ I also made a new Raspberry Pi 3 case based off of the "old-new-greatest" Mac Pr
 
 ---
 
+
 Juggling several projects at once, the SingleCopter, an Angular 2 dashboard, an Ionic 2 Video-chat app & a Native Android Broadcasting app using Kurento.
 
 Goals for this month include-
@@ -26,4 +27,4 @@ Goals for this month include-
 
 * opencv/TF assisted photogrammetry or maybe even using GANs to help with making accurate models from collected pics.
 
-* Drone application for FlatBend photos, convexed panoramaic trajectory.
+* Drone application for FlatBend photos, its just a convexed panoramic trajectory which goes from facing forward to finally looking down at max height.
