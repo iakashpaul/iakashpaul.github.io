@@ -5,7 +5,7 @@ title: April Rush
 
 I got new gear inlcuding books like 'Getting Started with TF' & 'AI: A Modern Approach by Russell & Norvig'. Also a grey cutting mat to up the cool-factor of my desk(not really, it's just to protect the wooden table top from further damage by screwdrives & cutters).
 
-I also made a new Raspberry Pi 3 case based off of the "old-new-greatest" Mac Pro(trash-can design), aptly named Pi Pro
+I also made a new Raspberry Pi 3 case based off of the "old-new-greatest" Mac Pro(trash-can design), aptly named 'Pi Pro'.
 
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/5d647793c35045248346eb8856bb10dc/embed?autospin=0.2&amp;autostart=1" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
@@ -15,6 +15,8 @@ I also made a new Raspberry Pi 3 case based off of the "old-new-greatest" Mac Pr
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
 </div>
+
+---
 
 Juggling several projects at once, the SingleCopter, an Angular 2 dashboard, an Ionic 2 Video-chat app & a Native Android Broadcasting app using Kurento.
 
