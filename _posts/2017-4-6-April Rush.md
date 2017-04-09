@@ -3,7 +3,7 @@ layout: post
 title: April Rush
 ---
 
-I got new gear inlcuding books like 'Getting Started with TF' & 'AI: A Modern Approach by Russell & Norvig'. Also a grey cutting mat to up the cool-factor of my desk(not really, it's just to protect the wooden table top from further damage by screwdrives & cutters).
+I got new gear inlcuding books like 'Getting Started with TF' & 'AI: A Modern Approach by Russell & Norvig'. Also a grey cutting mat to up the cool-factor of my desk(not really, it's just to protect the wooden table top from further damage by screwdrivers & cutters).
 
 I also made a new Raspberry Pi 3 case based off of the "old-new-greatest" Mac Pro(trash-can design), aptly named 'Pi Pro'.
 
