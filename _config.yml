@@ -1,3 +1,4 @@
+#Jekyll-Hyde
 # Dependencies
 markdown:     kramdown
 highlighter:  rouge  
@@ -24,4 +25,4 @@ excerpt_separator: <!--more-->
 version:          2.1.0
 
 github:
-  repo:           https://github.com/iakashpaul
+  repo:           https://github.com/iakashpaul/iakashpaul
