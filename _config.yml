@@ -1,5 +1,5 @@
 #Jekyll-Hyde
-# Dependencies
+#  Dependencies
 markdown:     kramdown
 highlighter:  rouge  
 
