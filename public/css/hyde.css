@@ -54,6 +54,7 @@ html {
 4 8 6 20
  */
 .img-circle {
+    margin-left: 20%;
     max-width: 50%;
     height: auto;
     border-radius: 50%;
