@@ -24,7 +24,7 @@ Akash
 
 - Got a project for me? Hit me up on [UpWork](https://www.upwork.com/freelancers/~01b935a8dd4763cbd9)
 
-- Products I've sell-
+- Products I make-
 
     * [CrowdSupply]()
     
