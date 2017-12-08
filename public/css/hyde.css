@@ -258,11 +258,11 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
-/* Materialize */
+/* Nordic */
 .theme-base-aa .sidebar {
-  background-color: #0C8CAF;
+  background-color: #4A5664;
 }
 .theme-base-aa .content a,
 .theme-base-aa .related-posts li a:hover {
-  color: #0C8CAF;
+  color: #4A5664;
 }
