@@ -1,6 +1,7 @@
 ---
 layout: post
 title: April Rush
+published: true
 ---
 
 I got new gear inlcuding books like 'Getting Started with TF' & 'AI: A Modern Approach by Russell & Norvig'. Also a grey cutting mat to up the cool-factor of my desk(not really, it's just to protect the wooden table top from further damage by screwdrivers & cutters).
@@ -27,4 +28,4 @@ Goals for this month include-
 
 * opencv/TF assisted photogrammetry or maybe even using GANs to help with making accurate models from collected pics.
 
-* Drone application for FlatBend photos, its just a convexed panoramic trajectory which goes from facing forward to finally looking down at max height.
+* Drone application for FlatBend photos, it's just a convexed panoramic trajectory which goes from facing forward to finally looking down at max height.
