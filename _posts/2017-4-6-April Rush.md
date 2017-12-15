@@ -24,7 +24,7 @@ Juggling several projects at once, the SingleCopter, an Angular 2 dashboard, an 
 
 Goals for this month include-
 
-* getting TF running on the Pi to make a general purpose sorter with an Android phone & NodeMCU board for minimum setup time from the get-go.
+* Getting TF running on the Pi to make a general purpose sorter with an Android phone & NodeMCU board for minimum setup time from the get-go.
 
 * opencv/TF assisted photogrammetry or maybe even using GANs to help with making accurate models from collected pics.
 
