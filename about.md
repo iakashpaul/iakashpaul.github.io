@@ -1,7 +1,4 @@
----
-layout: page
-title: About/Links
----
+
 Hey there! I'm a freelance software developer who also prototypes a lot of electronic projects.
 
 I've built UAVs with cellular control & video-streaming using WebRTC, tele-presence solutions & industrial robots. I'm also working on creating EVs, digital assistants & droids with AGI. Also focussed on inside-out VR (cardboardVR with Pi+LEAP MOTION).
