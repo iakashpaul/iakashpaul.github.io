@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Akash Paul"
 title_separator          : "-"
 name                     : "Akash Paul"
-description              : "Projects, artworks & products"
+description              : "Projects, apps, artworks & products"
 url                      : "https://www.akashpaul.comm"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Maketh things, writeth lines. മ"
   location         : "Bengaluru"
-  email            : "akash @ ideaplexus dot in"
+  email            : "akash@ideaplexus.in"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
