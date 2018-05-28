@@ -5,7 +5,7 @@ main:
   - title: "Apps"
     url: /apps/
   - title: "Artworks"
-    url: /artwork/
+    url: /artworks/
   - title: "Shop"
     url: /shop/
   - title: "Posts"
