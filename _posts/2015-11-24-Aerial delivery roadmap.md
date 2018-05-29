@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Aerial delivery roadmap
 ---
 So I was going over the different postions at Google[x], particularly in Project Wing & I found out that they required developers
