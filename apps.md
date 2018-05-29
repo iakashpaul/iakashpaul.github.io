@@ -1,6 +1,6 @@
 ---
 
-title: About me
+title: Apps built by me
 layout: single
 author_profile: true
 ---
