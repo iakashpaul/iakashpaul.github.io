@@ -1,7 +1,8 @@
 ---
 
 title: About me
-
+layout: single
+author_profile: true
 ---
 Hey there! I'm a freelance software developer who also prototypes a lot of electronic projects.
 
