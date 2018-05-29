@@ -16,7 +16,7 @@ Cheers!
 
 Akash
 
-
+---
 - Tweet up @[__Twitter__](https://twitter.com/iakashpaul) or Watch my videos on ▶️[__YouTube__]()
 
 - Find cool designs on [Thingiverse]() & tutorials at [Instructables](http://www.instructables.com/member/iAkashPaul/?publicView=true)
