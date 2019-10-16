@@ -1,7 +1,29 @@
 ---
 layout: archive
 ---
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.2.0/firebase-app.js"></script>
 
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.2.0/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyA8M2rsbtiU6ERTS7bx3FkhifkO99fPji0",
+    authDomain: "akashpaul-com.firebaseapp.com",
+    databaseURL: "https://akashpaul-com.firebaseio.com",
+    projectId: "akashpaul-com",
+    storageBucket: "akashpaul-com.appspot.com",
+    messagingSenderId: "89277085386",
+    appId: "1:89277085386:web:6cba7f1c225de104dae633",
+    measurementId: "G-2WWZ7SST3B"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
