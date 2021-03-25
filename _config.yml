@@ -103,7 +103,7 @@ author:
   name             : "Akash Paul"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Maketh things, writeth lines. മ"
-  location         : "Bengaluru"
+  location         : "BLR, IN"
   email            : "akash@ideaplexus.in"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -117,7 +117,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "iakashpaul"
+  instagram        :
   lastfm           :
   linkedin         : "akashpaul"
   pinterest        :
