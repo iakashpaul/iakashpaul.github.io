@@ -217,6 +217,15 @@
         {% endif %}
       {% endif %}
 
+      {% if author.huggingface %}
+        {% if author.huggingface contains "://" %}
+          <li>
+            <a href="{{ author.huggingface }}" itemprop="sameAs">
+              🤗 HuggingFace
+            </a>
+          </li>
+      {% endif %}
+
       {% if author.soundcloud %}
         <li>
           <a href="https://soundcloud.com/{{ author.soundcloud }}" itemprop="sameAs">
