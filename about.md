@@ -6,20 +6,16 @@ author_profile: true
 ---
 Hey there! I'm an ML engineer who also prototypes a lot of electronic products.
 
-I've built UAVs with cellular control & video-streaming using WebRTC, crowdfunded tele-presence solutions & built articulated robots. I'm also working on creating EVs, digital assistants & droids(like TARS) to help around various tasks.
-
-
-Mulling over inter-planetary travel, dragon-esque planes (look up Kitty Hawk) & cliff-running are things that occupy my mind whenever I go for a run.
+I've previously built UAVs with cellular control, video-streaming apps using WebRTC, worked on a crowdfunded tele-presence solution & built articulated 5 DoF arms. I'm also working on creating LLM powered digital assistants & droids(like Chappie/TARS) to help around various tasks.
 
 Cheers!
-
 Akash
 
 ---
 
-- Tweet up @[iAkashPaul](https://twitter.com/iakashpaul) 
+- Tweet up [@iAkashPaul](https://twitter.com/iakashpaul) 
 
-- Find cool designs on [Thingiverse]() & tutorials at [Instructables](http://www.instructables.com/member/iAkashPaul/?publicView=true)
+- Watch more about the things I make on [YouTube/iAkashPaul](https://www.youtube.com/@iAkashPaul) or check out ML work on [HuggingFace](https://huggingface.co/iAkashPaul)
 
 - Got a project or idea in mind to work on? Hit me up on Twitter!
 
