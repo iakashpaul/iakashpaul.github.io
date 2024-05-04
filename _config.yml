@@ -23,7 +23,8 @@ description              : "Projects, apps, artworks & products"
 url                      : "https://akashpaul.com"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   :  "/assets/images/500x167.jpg"
+teaser                   :  "/assets/images/bg-small.png"
+#"/assets/images/500x167.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
