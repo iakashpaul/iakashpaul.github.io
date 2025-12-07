@@ -8,9 +8,9 @@ I've always been intrigued by artificial intelligence & robotics throughout my u
 
 ## Large language models
 
-* [ParaBrain](https://github.com/iakashpaul/ParaBrain) - A QLoRA attempt to split up token generation across n-copies of the LLM & get faster token-generation for a single prompt/task. Ex. summarization, story-writing, code-gen etc. The prompt to the models would have to bear an identifier for the worker_number/total_workers. 
+* ParaBrain - A QLoRA attempt to split up token generation across n-copies of the LLM & get faster token-generation for a single prompt/task. Ex. summarization, story-writing, code-gen etc. The prompt to the models would have to bear an identifier for the worker_number/total_workers. 
 
-* [Stasis](https://github.com/iakashpaul/Stasis) - A timeless benchmark & harness for both evaluation & grounding LLMs regardless of their knowledge cut-off dates
+* Stasis - A timeless benchmark & harness for both evaluation & grounding LLMs regardless of their knowledge cut-off dates
 
 ## Speech-to-text
 
