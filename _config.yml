@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "nord" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #,"nord" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "A K A S H"
   avatar           : "/assets/images/trop-black-512.jpg"
-  bio              : "Make things & write lines | 🥑മ"
+  bio              : "Make things & write lines | 🥑 ⚡︎ മ"
   location         : #"Bengaluru, IN"
   email            : "akash@akashpaul.com"
   uri              :
